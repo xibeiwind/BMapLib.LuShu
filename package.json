@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dafrok/BMapLib.LuShu.git"
+    "url": "git+https://github.com/xibeiwind/BMapLib.LuShu.git"
   },
   "keywords": [
     "baidu",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dafrok/BMapLib.LuShu/issues"
+    "url": "https://github.com/xibeiwind/BMapLib.LuShu/issues"
   },
-  "homepage": "https://github.com/Dafrok/BMapLib.LuShu#readme"
+  "homepage": "https://github.com/xibeiwind/BMapLib.LuShu#readme"
 }
